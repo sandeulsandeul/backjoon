@@ -1,2 +1,2 @@
 language = "bash"
-run="python3 14888.py"
+run="python3 1012.py"
